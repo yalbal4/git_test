@@ -1,0 +1,1 @@
+open hello_world.txt, add some text to it, and then stage it.
